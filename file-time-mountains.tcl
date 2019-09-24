@@ -7,10 +7,10 @@
 #
 # Spins through the given directory (default: current)
 # and spits out a graph showing a count by hour
-# of file creation, modification and then access times.
+# of file change, modification and then access times.
 #
 # So it looks like three sideways mountains, 'c' 'm' 'a':
-# 'c' for hour-by-hour tally of file creation times
+# 'c' for hour-by-hour tally of file change times
 # 'm' for hour-by-hour tally of file modification times
 # 'a' for hour-by-hour tally of file access times
 #
